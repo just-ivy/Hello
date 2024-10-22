@@ -1,0 +1,2 @@
+We typed a message in the message file
+We typed another message
